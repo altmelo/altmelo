@@ -1,10 +1,10 @@
-### Hello! 😁
-My name is Maurício de Melo. I'm studying Systems Analysis and Development.
-I'm from Pernambuco, Brazil!
+### <Olá/>! 😁
+Meu nome é Maurício Melo. Estou cursando Análise e Desenvolvimento de Sistemas.
+Sou de Pernambuco, Brasil!
 
-I'm mainly working with JS.
+Estou trabalhando principalmente com JS.
 
-I love learning!
+Estudante por toda a vida 👩‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

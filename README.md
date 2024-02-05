@@ -1,6 +1,6 @@
 ### Hello! 😁
 My name is Maurício de Melo. I'm studying Systems Analysis and Development.
-I'm from Pernambuco, Brazil
+I'm from Pernambuco, Brazil!
 
 I'm mainly working with JS.
 

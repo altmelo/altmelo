@@ -1,5 +1,5 @@
 ### <Olá/>! 😁
-Meu nome é Maurício Melo. Estou cursando Análise e Desenvolvimento de Sistemas.
+Meu nome é Maurício Melo. Estou cursando Engenharia de Software.
 Sou de Pernambuco, Brasil!
 
 Estou trabalhando principalmente com JS.

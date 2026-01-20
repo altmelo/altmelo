@@ -1,8 +1,6 @@
 ### <Olá/>! 😁
-Meu nome é Maurício Melo. Estou cursando Engenharia de Software.
+Me chamo Maurício Melo. Cursando Engenharia de Software e Desenvolvedor Jr.
 Sou de Pernambuco, Brasil!
-
-Estou trabalhando principalmente com JS.
 
 Estudante por toda a vida 👩‍💻
 
